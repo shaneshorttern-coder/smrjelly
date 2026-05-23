@@ -1,46 +1,23 @@
 {
-  "config_version": 1,
-  "config_updated_at": "2026-05-23T00:00:00Z",
-  "update": {
+  "app_update": {
     "enabled": false,
     "force": false,
-    "min_version_code": 0,
-    "latest_version_code": 0,
-    "update_url": "https://smrstream.site/",
-    "title": "Update Available",
-    "message": "A newer version is available. Please update for best performance.",
-    "update_button": "Update",
-    "skip_button": "Skip"
+    "latest_version_code": 2,
+    "update_url": "https://play.google.com/store/apps/details?id=com.example.smr_player",
+    "update_message": "New version available! Please update for the best experience."
   },
   "maintenance": {
     "enabled": false,
-    "title": "Under Maintenance",
-    "message": "The service is temporarily unavailable. Please check back soon.",
-    "button": {
-      "enabled": true,
-      "label": "More Info",
-      "url": "https://smrstream.site/"
-    }
+    "message": "We're currently performing maintenance. Please try again later."
   },
   "splash": {
-    "enabled": true,
-    "duration_ms": 3500,
+    "duration_seconds": 3,
+    "media_url": "",
+    "media_type": "",
     "background_color": "#0A0A12",
-    "media": {
-      "type": "image",
-      "source": "assets/app_icon.png",
-      "fit": "contain",
-      "mute_video": true,
-      "loop_video": true
-    },
-    "text": {
-      "title": "SMR Player",
-      "subtitle": "Fast stream loading and cloud-safe web mode."
-    },
-    "button": {
-      "enabled": true,
-      "label": "Support",
-      "url": "https://smrstream.site/"
-    }
+    "title": "SMR Player",
+    "subtitle": "Stream Anything, Anywhere",
+    "button_text": "",
+    "button_url": ""
   }
 }
