@@ -1,10 +1,10 @@
 {
   "app_update": {
-    "enabled": false,
-    "force": false,
-    "latest_version_code": 2,
-    "update_url": "https://play.google.com/store/apps/details?id=com.example.smr_player",
-    "update_message": "New version available! Please update for the best experience."
+    "enabled": true,
+    "force": true,
+    "latest_version_code": 3,
+    "update_url": "https://cf-file-paste.ftube-net.workers.dev/d/c100bdb8-45e4-403b-a264-a0df7af8fac8",
+    "update_message": "အပ်ပုဒိတ် လုပ်ဖို့လိုပါသည်"
   },
   "maintenance": {
     "enabled": false,
