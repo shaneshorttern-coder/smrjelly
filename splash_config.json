@@ -1,8 +1,8 @@
 {
   "app_update": {
-    "enabled": true,
-    "force": true,
-    "latest_version_code": 3,
+    "enabled": false,
+    "force": false,
+    "latest_version_code": 2,
     "update_url": "https://cf-file-paste.ftube-net.workers.dev/d/c100bdb8-45e4-403b-a264-a0df7af8fac8",
     "update_message": "အပ်ပုဒိတ် လုပ်ဖို့လိုပါသည်"
   },
